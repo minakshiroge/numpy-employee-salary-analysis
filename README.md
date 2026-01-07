@@ -1,4 +1,5 @@
 NumPy Project: Employee Salary Analysis
+Employee salary analysis using Python and NumPy
 
 ## Objective
 Analyze employee salary data and find useful insights using NumPy.
